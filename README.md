@@ -1,10 +1,10 @@
 #**Adriana Voyce**
 ##Salesforce Administrator and Sales Operations Analyst
-###<Adriana.Voyce@Gmail.com> | 315-489-9242#
+###<Adriana.Voyce@Gmail.com> | 315-489-9242
 ---
 ###Summary
 
->Experienced Salesforce Administrator working with the platform for over 6 years. As a certified Administrator, I enjoy that the application allows users to modify it to the needs of the business and is constantly adapting to meet new demands in the company. It is my goal to become a developer so that I may use these skills to further enhance the platform. 
+>Experienced Salesforce Administrator working with the platform for over 6 years. As a certified Administrator, I enjoy that the application allows users to modify it to the needs of the business and is constantly adapting to meet new demands. It is my goal to become a developer so that I may use these skills to further enhance the platform. 
 
 ----
 ###Certifications
@@ -29,7 +29,12 @@
 >* Trained clients and colleagues on utilizing Salesforce by providing information regarding services, applications, and features of current and new release updates. 
 
 -----
-###Education
+###Additional Skills 
+* **Languages** – Spanish (Native); English (Proficient) 
+* **Computer Skills** – Microsoft Office (Word, Excel, PowerPoint)  
+
+------
+###Education and Additional Skills 
 
 **State University of New York Empire State College** -- _BS, International Business_
 
