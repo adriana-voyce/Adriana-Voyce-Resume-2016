@@ -34,7 +34,7 @@
 * **Computer Skills** – Microsoft Office (Word, Excel, PowerPoint)  
 
 ------
-###Education and Additional Skills 
+###Education
 
 **State University of New York Empire State College** -- _BS, International Business_
 
