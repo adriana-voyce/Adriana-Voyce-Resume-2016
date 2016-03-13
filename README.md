@@ -1,6 +1,6 @@
 #**Adriana Voyce**
 ##Salesforce Administrator and Sales Operations Analyst
-###<Adriana.Voyce@gmail.com> | 315-489-9242#
+###<Adriana.Voyce@Gmail.com> | 315-489-9242#
 ---
 ###Summary
 
