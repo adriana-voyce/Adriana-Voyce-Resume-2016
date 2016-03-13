@@ -24,7 +24,7 @@
 >* Integrated Salesforce.com with a wide range of business applications by utilizing various integration tools from the app exchange. 
 
 **Stream Global Services - _Premier Tier I ; Tier II; and Admin Technical Support_**
->* Managed ongoing support requests and administrative needs by diagnosing and handling technical support inquiries for users then crafting plans to remedy user issues. 
+>* Managed ongoing support and administrative requests by diagnosing and handling technical inquiries from users and crafting plans to remedy user issues. 
 >* Continuously monitored data quality, integrity, and processes of import files and updates as well as regularly performing database de-duping and cleanup procedures.
 >* Trained clients and colleagues on utilizing Salesforce by providing information regarding services, applications, and features of current and new release updates. 
 
