@@ -23,7 +23,7 @@
 >* Maintained the functional areas of data management by via reports and dashboards as well as reviewing core objects and performing any necessary cleanup of duplicate records.
 >* Integrated Salesforce.com with a wide range of business applications by utilizing various integration tools from the app exchange. 
 
-**Stream Global Services - _Premier Tier I Technical Support / Technical Support Professional II; Salesforce.com Admin_     **
+**Stream Global Services - _Premier Tier I Technical Support / Technical Support Professional II; Salesforce.com Admin_**
 >* Managed ongoing support requests and administrative needs by diagnosing and handling technical support inquiries for users then crafting plans to remedy user issues. 
 >* Continuously monitored data quality, integrity, and processes of import files and updates as well as regularly performing database de-duping and cleanup procedures.
 >* Trained clients and colleagues on utilizing Salesforce by providing information regarding services, applications, and features of current and new release updates. 
