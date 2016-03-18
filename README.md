@@ -16,7 +16,7 @@
 **Clarabridge - _Salesforce Administrator and Sales Operations Analyst_**
 >* Responsible for the configuration, administration, and customization of Salesforce for the sales, marketing, and management team. 
 >* Collaborate with the finance team on renewals and new business deals and work alongside the management team on new strategies to maximize sales.
->* Manage and develop the Netsuite to Salesforce Boomi integration gathering requirements and overseeing the development of the configuration to connect the systems. 
+>* Managed and develop the Netsuite to Salesforce Boomi integration by gathering requirements and implemeting a solution design to connect the systems. 
 
 **GearsCRM - _Customer Success Administrator & Business Analyst_**
 >* Managed the setup and customization of Salesforce for multiple clients by translating business requirements and modify their instance to achieve the needs of each individual company. 
